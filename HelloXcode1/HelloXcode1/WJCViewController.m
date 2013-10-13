@@ -20,6 +20,13 @@
     int a;
     a = 100000;
     
+    int b;
+    b = 20000;
+    
+    int c;
+    c = 3000;
+    
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
