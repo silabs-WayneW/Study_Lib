@@ -17,6 +17,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    int a;
+    a = 100000;
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
